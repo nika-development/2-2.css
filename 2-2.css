@@ -1,0 +1,189 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+#second {
+    width: 980px;
+    margin: 0 auto;
+    margin-top: 12px;
+}
+
+
+#es {
+    color: #FF5DA3;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-left: 170px;
+    font-size: 18px;
+}
+
+#er {
+    color: #323232;
+    font-size: 18px;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+#ne {
+    color: #323232;
+    font-size: 18px;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+#se {
+    color: #323232;
+    font-size: 18px;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+#mi {
+    background: #00AC25;
+    margin-left: 192px;
+    padding: 8px 16px;
+    font-size: 14px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: white;
+}
+
+#mai {
+    text-align: center;
+    width: 1316px;
+    margin: 0 auto;
+}
+
+#mir {
+    text-align: center;
+    font-size: 93px;
+    margin-top: 178px;
+}
+
+#mui {
+    max-width: 1316px;
+
+}
+
+#inatructor {
+    color: #FF5DA3;
+}
+
+#sar {
+    text-align: center;
+    margin-top: 24px;
+    font-size: 24px;
+}
+
+#enjoy {
+    font-size: 48px;
+    margin-top: 24px;
+}
+
+#tempo {
+    width: 716px;
+    margin: auto;
+    margin-top: 24px;
+}
+
+#temputer {
+    font-size: 24px;
+    text-align: center;
+    color: #6941C6;
+}
+
+#become {
+    padding: 16px 24px;
+    width: 233px;
+    background: #00AC25;
+    border-radius: 8px;
+    margin: 0 auto;
+    margin-top: 24px;
+}
+
+#becume {
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+    height: 128px;
+    background: #53389E;
+    padding: 0px;
+    margin-top: 578px;
+}
+
+#dus {
+    width: 1216px;
+    height: 32px;
+}
+
+#png {
+    width: 139px;
+    height: 32px;
+    margin: 0px;
+    margin-top: 48px;
+    margin-left: 352px;
+}
+
+#barber {
+    height: 24px;
+    text-align: center;
+    width: 512px;
+    margin: 0px;
+    margin-left: 704px;
+    margin-top: 24px;
+
+}
+
+#burbi {
+    margin-left: 32px;
+    font-size: 16px;
+    color: #E9D7FE;
+    text-decoration: none;
+}
+#burbery{
+    margin-left: 32px;
+    font-size: 16px;
+    color: #E9D7FE;
+    text-decoration: none;
+}
+
+#ball {
+    margin-left: 32px;
+    font-size: 16px;
+    color: #E9D7FE;
+    text-decoration: none;
+}
+
+#bull {
+    margin-left: 32px;
+    font-size: 16px;
+    color: #E9D7FE;
+    text-decoration: none;
+}
+
+#biri {
+    margin-left: 32px;
+    font-size: 16px;
+    color: #E9D7FE;
+    text-decoration: none;
+}
+
+#guli {
+    margin-left: 32px;
+    font-size: 16px;
+    color: #E9D7FE;
+    text-decoration: none;
+}
+
+#holl{
+    margin: 0px;
+    margin-left: 1408px;
+    position: relative;
+    bottom: 22px;
+    color: white;
+}
